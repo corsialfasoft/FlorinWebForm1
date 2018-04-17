@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlorinWebForm1", "FlorinWebForm1\FlorinWebForm1.csproj", "{155D45E6-732B-46E6-ABDF-8C7D9171C3DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlorinWebForm1.Tests", "FlorinWebForm1.Tests\FlorinWebForm1.Tests.csproj", "{4F184EBC-2309-486E-BD27-F9E0A74841E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{155D45E6-732B-46E6-ABDF-8C7D9171C3DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{155D45E6-732B-46E6-ABDF-8C7D9171C3DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{155D45E6-732B-46E6-ABDF-8C7D9171C3DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{155D45E6-732B-46E6-ABDF-8C7D9171C3DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F184EBC-2309-486E-BD27-F9E0A74841E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F184EBC-2309-486E-BD27-F9E0A74841E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F184EBC-2309-486E-BD27-F9E0A74841E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F184EBC-2309-486E-BD27-F9E0A74841E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B33F4C2-1D68-4251-B614-499F6B0F0878}
+	EndGlobalSection
+EndGlobal
