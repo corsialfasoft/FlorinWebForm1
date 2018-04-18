@@ -10,15 +10,24 @@
 namespace FlorinWebForm1 {
     
     
-    public partial class SiteMaster {
+    public partial class Carrello {
         
         /// <summary>
-        /// Controllo MainContent.
+        /// Controllo btnSendRequest.
         /// </summary>
         /// <remarks>
         /// Campo generato automaticamente.
         /// Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ContentPlaceHolder MainContent;
+        protected global::System.Web.UI.WebControls.Button btnSendRequest;
+        
+        /// <summary>
+        /// Controllo btnPulisci.
+        /// </summary>
+        /// <remarks>
+        /// Campo generato automaticamente.
+        /// Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnPulisci;
     }
 }

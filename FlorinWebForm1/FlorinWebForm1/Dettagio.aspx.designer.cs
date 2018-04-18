@@ -10,15 +10,24 @@
 namespace FlorinWebForm1 {
     
     
-    public partial class SiteMaster {
+    public partial class Dettagio {
         
         /// <summary>
-        /// Controllo MainContent.
+        /// Controllo idQuantita.
         /// </summary>
         /// <remarks>
         /// Campo generato automaticamente.
         /// Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ContentPlaceHolder MainContent;
+        protected global::System.Web.UI.WebControls.TextBox idQuantita;
+        
+        /// <summary>
+        /// Controllo btnAddQuatita.
+        /// </summary>
+        /// <remarks>
+        /// Campo generato automaticamente.
+        /// Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnAddQuatita;
     }
 }
